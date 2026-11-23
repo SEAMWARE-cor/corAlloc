@@ -14,7 +14,7 @@
 #include "corAlloc/CorAllocStatus.h"    // CorAllocStatus
 #include "corAlloc/CorAllocTraceLevel.h"        // Trace Levels for corAlloc library
 #include "corAlloc/corAllocHooks.h"     // CORALLOC_ERROR_HOOK
-#include "corAlloc/CorAlloc.h"          // CorAlloc
+#include "corAlloc/CorAllocStruct.h"    // CorAlloc
 #include "corAlloc/corAlloc.h"          // corAlloc
 #include "corAlloc/corAllocRealloc.h"   // Own Interface
 

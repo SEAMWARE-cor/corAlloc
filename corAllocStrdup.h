@@ -11,7 +11,7 @@
 #ifndef CORALLOC_CORALLOCSTRDUP_H_
 #define CORALLOC_CORALLOCSTRDUP_H_
 
-#include "corAlloc/CorAlloc.h"          // CorAlloc
+#include "corAlloc/CorAllocStruct.h"    // CorAlloc
 
 
 

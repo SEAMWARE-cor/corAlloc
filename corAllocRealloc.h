@@ -10,7 +10,7 @@
 #ifndef CORALLOC_CORALLOCREALLOC_H_
 #define CORALLOC_CORALLOCREALLOC_H_
 
-#include "corAlloc/CorAlloc.h"   // CorAlloc struct
+#include "corAlloc/CorAllocStruct.h"   // CorAlloc struct
 
 
 

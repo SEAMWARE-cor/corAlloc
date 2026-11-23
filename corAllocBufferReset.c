@@ -12,7 +12,7 @@
 #include <stdbool.h>                    // bool
 
 
-#include "corAlloc/CorAlloc.h"          // CorAlloc
+#include "corAlloc/CorAllocStruct.h"    // CorAlloc
 #include "corAlloc/CorAllocBuffer.h"    // CorAllocBuffer
 #include "corAlloc/corAllocBufferInit.h"        // corAllocBufferInit
 #include "corAlloc/corAllocBufferReset.h"       // Own Interface
