@@ -11,7 +11,7 @@
 #define CORALLOC_CORALLOCBUFFERINIT_H_
 
 #include "corAlloc/CorAllocStatus.h"    // CorAllocStatus
-#include "corAlloc/CorAlloc.h"          // CorAlloc
+#include "corAlloc/CorAllocStruct.h"    // CorAlloc
 #include "corAlloc/corAllocHooks.h"     // CorAllocErrorHook
 
 

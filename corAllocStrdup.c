@@ -9,7 +9,7 @@
 //
 #include <string.h>                     // strlen, strcpy
 
-#include "corAlloc/CorAlloc.h"          // CorAlloc
+#include "corAlloc/CorAllocStruct.h"    // CorAlloc
 #include "corAlloc/corAlloc.h"          // corAlloc
 #include "corAlloc/corAllocStrdup.h"    // Own interface
 

@@ -13,7 +13,7 @@
 
 #include <stdbool.h>                    // bool
 
-#include "corAlloc/CorAlloc.h"          // CorAlloc
+#include "corAlloc/CorAllocStruct.h"    // CorAlloc
 
 
 
